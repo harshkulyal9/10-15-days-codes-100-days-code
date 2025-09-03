@@ -1,3 +1,4 @@
+//Write a program to print the sum of the first n odd numbers.
 #include<stdio.h>
 int main(){
    int sum=0;
@@ -9,4 +10,5 @@ int main(){
     }
     printf("%d",sum);
     return 0;
+
 }
