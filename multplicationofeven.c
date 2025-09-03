@@ -1,3 +1,4 @@
+//Write a program to print the product of even numbers from 1 to n.
 #include<stdio.h>
 int main(){
     int multiplication=1;
@@ -11,4 +12,5 @@ for(int i=2;i<=n;i=i+2){
 printf("%d",multiplication);
 
 return 0;
+
 }
